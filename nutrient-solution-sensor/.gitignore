@@ -1,0 +1,5 @@
+# exclude certs and keys
+/aws/*.pem
+/aws/*.key
+/aws/*.crt
+config.py
